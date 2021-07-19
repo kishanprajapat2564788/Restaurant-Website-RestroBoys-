@@ -1,0 +1,14 @@
+<section class="fdes">
+		<div class="section white center">
+			<h2 class="header" style="padding:20px; padding-bottom: 30px;">Resturant Powered By Boys</h2>
+		      <div class="row container center">
+		        <div class="col center l8 s12">
+		        	<p>Some of his discomfort, he is obligated to levy so-called free fall flight is rejected due to the light, because it is sometimes painful troubles! And no one condemn pleasure, away with less of some of the sort, and yet on that pain was something he may repel the very hatred of them it has the sorrows, rejecting some, but no one gave him to us. Labor services or cheering seasons, pleasure and pain, because he rejects the pleasure of pleasure, accepted! Rejecting something that we will have further enhanced choosing the film. Provide in the offices of pleasure, hatred of our ancestors accepted repel him, too little, or no one is more blessed to condemn or to harsh, for the wise man, the sorrows of this suffering is the pleasure of these is easy, and griefs. The right to the truth, we may be able, find fault with the master builder for the pleasures nor to the body, which will open encounter. There is nothing answered, but if not, never had the pleasure of a great mind, and do something more to follow the consequences of the time of the Minneapolis, look for the real, indeed, of the truth of it!Some of his discomfort, he is obligated to levy so-called free fall flight is rejected due to the light, because it is sometimes painful troubles! And no one condemn pleasure, away with less of some of the sort, and yet on that pain was something he may repel the very hatred of them it has the sorrows, rejecting some, but no one gave him to us. Labor services or cheering seasons, pleasure and pain, because he rejects the pleasure of pleasure, accepted! Rejecting something that we will have further enhanced choosing the film. Provide in the offices of pleasure, hatred of our ancestors accepted repel him, too little, or no one is more blessed to condemn or to harsh, for the wise man, the sorrows of this suffering is the pleasure of these is easy, and griefs. To ask pardon for him to achieve a great modes of our ancestors when they do not understand that no man is with the great of this world, the right to the truth, we may be able, find fault with the master builder for the pleasures nor to the body, which will open encounter. There is nothing answered, but if not, never had the pleasure of a great mind, and do something more to follow the consequences of the time of the Minneapolis, look for the real, indeed, of the truth of it!</p>
+		        </div>
+		        <div class="col center l4 s12">
+					<img height="260" width="auto" style="object-fit: contain;" src="images/kish.jpg" alt="">
+					<img height="260" width="auto" style="object-fit: contain;" src="images/kishan.jpg" alt="">
+		        </div>
+		        
+		      </div>
+	</section>

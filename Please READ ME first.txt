@@ -1,0 +1,15 @@
+Admin Login:
+Email Id: admin@gmail.com	
+Password: 12345
+
+Step 1:First unzip the file, then there is one Folder
+RestroBoys.
+Step 2: Copy the folder into the folder named"htdocs"
+which is in xampp folder.
+Step 3: Open a browser
+Step 4: then, http://localhost:8080/RestroBoys/
+Step 5: the open another tab, http://localhost:8080/phpmyadmin/
+then after import the database.
+Step 6: For Admin 
+open another tab, then  http://localhost:8080/RestroBoys/admin/
+Step 6: Done!!
